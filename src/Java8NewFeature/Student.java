@@ -1,3 +1,5 @@
+package Java8NewFeature;
+
 public class Student {
 
     public enum Sax{

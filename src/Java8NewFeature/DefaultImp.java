@@ -1,3 +1,5 @@
+package Java8NewFeature;
+
 /**
  * Created by wpx on 2017/12/12.
  */

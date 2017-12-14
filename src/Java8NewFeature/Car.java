@@ -1,3 +1,5 @@
+package Java8NewFeature;
+
 import java.util.function.Supplier;
 
 public class Car {
