@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2795b9e4-de4b-445a-b040-311e0f4f223c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaEnum/switch语句中的enum/Enum_Stwich.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaEnum/使用EnumMap/EnumMapTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaEnum/使用EnumSet替代标志/EnumSetTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaEnum/使用接口组织枚举/Food.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaEnum/向enum中添加属性与方法/Enum_AddMthod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaEnum/基本enum特性/Enum_BaseFeature.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaInnerClass/AbsEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaInnerClass/Event.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaInnerClass/内部类使用场景1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaInnerClass/内部类使用场景2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaLeave/BitSetTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/JavaEnum/使用EnumMap/EnumMapTest.java" afterPath="$PROJECT_DIR$/src/JavaEnum/使用EnumMap/EnumMapTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/JavaEnum/向enum中添加属性与方法/Enum_AddMthod.java" afterPath="$PROJECT_DIR$/src/JavaEnum/向enum中添加属性与方法/Enum_AddMumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,11 +92,11 @@
       <file leaf-file-name="EnumMapTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaEnum/使用EnumMap/EnumMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="66">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#355#372#0" expanded="true" />
+                <element signature="e#359#376#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Enum_AddMthod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaEnum/向enum中添加属性与方法/Enum_AddMthod.java">
+      <file leaf-file-name="Enum_AddMumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaEnum/向enum中添加属性与方法/Enum_AddMumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="398">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="e#213#214#0" expanded="true" />
                 <element signature="e#241#242#0" expanded="true" />
@@ -260,6 +251,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_KDP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_KDP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEnum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_KDP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_KDP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaEnum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="使用EnumMap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -331,14 +362,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Enum_AddMthod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Enum_AddMumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="JavaEnum.向enum中添加属性与方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaEnum.向enum中添加属性与方法.Enum_AddMthod" />
+      <option name="MAIN_CLASS_NAME" value="JavaEnum.向enum中添加属性与方法.Enum_AddMumber" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -781,7 +812,7 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Enum_BaseFeature" />
       <item index="1" class="java.lang.String" itemvalue="Application.Enum_Stwich" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Enum_AddMthod" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Enum_AddMumber" />
       <item index="3" class="java.lang.String" itemvalue="Application.Food" />
       <item index="4" class="java.lang.String" itemvalue="Application.EnumSetTest" />
     </list>
@@ -789,7 +820,7 @@
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.EnumSetTest" />
         <item index="1" class="java.lang.String" itemvalue="Application.Food" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Enum_AddMthod" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Enum_AddMumber" />
         <item index="3" class="java.lang.String" itemvalue="Application.Enum_Stwich" />
         <item index="4" class="java.lang.String" itemvalue="Application.Enum_BaseFeature" />
       </list>
@@ -812,7 +843,7 @@
       <workItem from="1513082400848" duration="7266000" />
       <workItem from="1513171123295" duration="14000" />
       <workItem from="1513227762012" duration="557000" />
-      <workItem from="1513228321634" duration="8167000" />
+      <workItem from="1513228321634" duration="8822000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1513081892296</created>
@@ -849,14 +880,22 @@
       <option name="project" value="LOCAL" />
       <updated>1513230263344</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit 5">
+      <created>1513236995872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1513236995872</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16728000" />
+    <option name="totallyTimeSpent" value="17383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1924" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -873,7 +912,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25733754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25733754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -899,7 +938,8 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
     <MESSAGE value="commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+    <MESSAGE value="commit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1217,19 +1257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaEnum/向enum中添加属性与方法/Enum_AddMthod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaEnum/使用接口组织枚举/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1270,13 +1297,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaEnum/向enum中添加属性与方法/Enum_AddMumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaEnum/使用EnumMap/EnumMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#355#372#0" expanded="true" />
+            <element signature="e#359#376#0" expanded="true" />
           </folding>
         </state>
       </provider>

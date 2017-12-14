@@ -5,7 +5,7 @@ import JavaEnum.基本enum特性.Enum_BaseFeature;
 /**
  * Created by GM-KF007 on 2017/12/14.
  */
-public enum  Enum_AddMthod {
+public enum Enum_AddMumber {
 
     ONE;
 

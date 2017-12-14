@@ -1,6 +1,5 @@
 package JavaEnum.使用EnumMap;
 import java.util.EnumMap;
-import java.util.EnumSet;
 import java.util.Map;
 
 /**
@@ -9,7 +8,7 @@ import java.util.Map;
 public class   EnumMapTest {
 
     //EnumMap内部用数组实现,因此查找速度非常快
-
+    //最好不要用序数来索引数组,而要使用EnumMap
     enum Operate{
         ADD, UPDATE, DELETE;
     }
@@ -52,7 +51,6 @@ public class   EnumMapTest {
         for(Map.Entry<Operate, String> entry:map.entrySet()){
             System.out.print(entry.getKey() + ": " + entry.getValue() + ", ");
         }
-
     }
 
 }
